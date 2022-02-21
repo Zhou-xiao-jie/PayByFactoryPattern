@@ -1,0 +1,2 @@
+# PayByFactoryPattern
+利用工厂模式单例模式来整合支付模块各个支付方式
